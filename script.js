@@ -27,6 +27,12 @@ const music_list = [
         artist : 'Alison Phoebe Lue',
         music : 'music/APL.mp3'
     },
+    {
+      img : 'images/FKA.png',
+      name : 'Hide',
+      artist : 'FKA Twigs',
+      music : 'music/FKA.mp3'
+  },
     
     
 ];

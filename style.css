@@ -174,11 +174,11 @@ body {
     @keyframes animate {
       50% {
         height: 20%;
-        background: #4286f4;
+        background: #3c7de4;
       }
   
       100% {
-        background: #4286f4;
+        background: 3c7de4;
         height: 100%;
       }
     }
