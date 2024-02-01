@@ -22,7 +22,7 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/APL.png',
+        img : 'images/APL.jpeg',
         name : 'SHE',
         artist : 'Alison Phoebe Lue',
         music : 'music/APL.mp3'
