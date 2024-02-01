@@ -24,7 +24,7 @@ const music_list = [
     {
         img : 'images/APL.jpeg',
         name : 'SHE',
-        artist : 'Alison Phoebe Lue',
+        artist : 'Alison Phoebe Lou',
         music : 'music/APL.mp3'
     },
     {
